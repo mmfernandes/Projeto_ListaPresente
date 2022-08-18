@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity
                                 getApplicationContext(), //contexto da aplicação parametro 1
                                 AddGiftActivity.class // classe que a gente quer chama parametro2
                         );
-                        startActivity(intent);
+                        startActivity(intent); //BOTAO P IR PRA OUTRA TELA
                     }
                   }
                 );
